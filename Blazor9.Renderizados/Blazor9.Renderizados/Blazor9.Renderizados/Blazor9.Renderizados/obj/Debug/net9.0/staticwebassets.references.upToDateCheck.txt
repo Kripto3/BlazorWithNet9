@@ -1,0 +1,1 @@
+D:\Dev-Kripto\NetConf2024-proyectos\Blazor9.Renderizados\Blazor9.Renderizados\Blazor9.Renderizados\Blazor9.Renderizados.Client\obj\Debug\net9.0\staticwebassets.build.json

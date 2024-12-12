@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Blazor9.Renderizados.props" />
+</Project>
